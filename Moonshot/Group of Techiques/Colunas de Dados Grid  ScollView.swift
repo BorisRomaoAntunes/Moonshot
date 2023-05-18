@@ -10,8 +10,8 @@ let layout =
     [
     GridItem(.adaptive(minimum:80, maximum: 120)),
     GridItem(.adaptive(minimum:80, maximum: 120)),
-    GridItem(.adaptive(minimum:80, maximum: 120)),
-    GridItem(.adaptive(minimum:80, maximum: 120))
+//    GridItem(.adaptive(minimum:80, maximum: 120)),
+//    GridItem(.adaptive(minimum:80, maximum: 120))
     ]
     
 struct Colunas_de_Dados_Grid__ScollView: View {
